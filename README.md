@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luis, an <a href="https://www.linkedin.com/in/luis-aguilar-3b8a29264">IT Professional</a>☺</h1>
+<h1>Hi, I'm Luis, an <a href="https://www.linkedin.com/in/luis-aguilar-3b8a29264">IT Professional!</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
