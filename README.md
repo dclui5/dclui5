@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis, an <a href="https://www.linkedin.com/in/luis-aguilar-3b8a29264">IT Professional!</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology & Python Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dclui5/osticket-prereqs)
