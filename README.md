@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Python Projects</b>
+  - [Random Variables, their Distributions, and Graphs](http://localhost:8888/notebooks/Box/Spring%20Semester%202023/M382/Assignments/assignment%202/math382_LabAssign02.ipynb)
+  - [Linear Regression and Optimization](http://localhost:8888/notebooks/Box/Spring%20Semester%202023/M382/Assignments/assignment%203/math382_LabAssign03.Luis%20Aguilar.ipynb)
 
 <h2>🤳Connect with me:</h2>
 
