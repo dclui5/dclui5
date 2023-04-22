@@ -17,6 +17,7 @@
 <h2>🤳Connect with me:</h2>
 
 <img align="left" alt="Luis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
 <b>[linkedin]: https://www.linkedin.com/in/luis-aguilar-3b8a29264/</b>
-<b>[indeed]: https://profile.indeed.com/p/luisa-s63ll58
+
+<b> <img align="left" alt="Luis | Indeed" width="22px" src="https://i.imgur.com/cXYXJqY.png" /> </b>
+<b>[indeed]: https://profile.indeed.com/p/luisa-s63ll58 </b>
