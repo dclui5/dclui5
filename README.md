@@ -20,4 +20,4 @@
 <b>[linkedin]: https://www.linkedin.com/in/luis-aguilar-3b8a29264/</b>
 
 <b><img align="left" alt="Luis | Indeed" width="22px" src="https://i.imgur.com/cXYXJqY.png" /></b>
-<b>[indeed]: https://profile.indeed.com/p/luisa-s63ll58 </b>
+[indeed]: https://profile.indeed.com/p/luisa-s63ll58
